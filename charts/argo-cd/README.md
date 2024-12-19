@@ -1,3 +1,6 @@
+# Pants Building
+This chart should be built with krepo pants
+
 # Argo CD Chart
 
 A Helm chart for Argo CD, a declarative, GitOps continuous delivery tool for Kubernetes.
